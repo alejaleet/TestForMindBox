@@ -1,0 +1,9 @@
+D:\Учеба\ClassLibraryProjects\SquareLibrary\bin\Debug\netstandard2.0\SquareLibrary.deps.json
+D:\Учеба\ClassLibraryProjects\SquareLibrary\bin\Debug\netstandard2.0\SquareLibrary.dll
+D:\Учеба\ClassLibraryProjects\SquareLibrary\bin\Debug\netstandard2.0\SquareLibrary.pdb
+D:\Учеба\ClassLibraryProjects\SquareLibrary\obj\Debug\netstandard2.0\SquareLibrary.csprojAssemblyReference.cache
+D:\Учеба\ClassLibraryProjects\SquareLibrary\obj\Debug\netstandard2.0\SquareLibrary.AssemblyInfoInputs.cache
+D:\Учеба\ClassLibraryProjects\SquareLibrary\obj\Debug\netstandard2.0\SquareLibrary.AssemblyInfo.cs
+D:\Учеба\ClassLibraryProjects\SquareLibrary\obj\Debug\netstandard2.0\SquareLibrary.csproj.CoreCompileInputs.cache
+D:\Учеба\ClassLibraryProjects\SquareLibrary\obj\Debug\netstandard2.0\SquareLibrary.dll
+D:\Учеба\ClassLibraryProjects\SquareLibrary\obj\Debug\netstandard2.0\SquareLibrary.pdb

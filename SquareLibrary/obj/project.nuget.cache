@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "K19wWA0k5WvztmdHPCWaXzHATVZgLfRqYCyHxrzHLM3Qrg8SA0QA2kIf+JAeIUtZA2VAaqO1ZEQPonBKzAm/tg==",
+  "success": true,
+  "projectFilePath": "D:\\Учеба\\ClassLibraryProjects\\SquareLibrary\\SquareLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aleja\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Aleja\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
